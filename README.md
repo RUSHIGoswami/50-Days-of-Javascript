@@ -8,3 +8,5 @@ link - [github.io/day2](https://rushigoswami.github.io/50-Days-of-Javascript/day
 [github.io/day4](https://rushigoswami.github.io/50-Days-of-Javascript/day4/)<br> Day 5 link -
 [github.io/day5](https://rushigoswami.github.io/50-Days-of-Javascript/day5/)<br> Day 6
 link -[github.io/day6](https://rushigoswami.github.io/50-Days-of-Javascript/day6/)<br>
+Day 7
+link -[github.io/day6](https://rushigoswami.github.io/50-Days-of-Javascript/day7/)<br>
