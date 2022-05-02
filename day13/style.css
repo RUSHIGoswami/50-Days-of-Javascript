@@ -45,18 +45,16 @@ textarea:focus{
 .choices{
     margin: 14px;
 }
-.choice{
+.choice {
     background-color: #e7b52a;
     color: #000;
     font-size: 16px;
     font-weight: bold;
-    padding: 8px;
-    margin: 0 10px;
-    border: 0;
+    padding: 10px 20px;
+    margin: 0 5px 10px 0;
     border-radius: 50px;
-    transition: 0.4s ease;
+    display: inline-block;
 }
-
 .choice.picked{
     background-color: #010156;
     color: #fff;
