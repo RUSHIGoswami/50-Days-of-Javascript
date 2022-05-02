@@ -20,10 +20,12 @@ body {
 
 h3{
     margin: 10px 0 20px;
+    align-items: center;
 }
 
 .container {
     width: 500px;
+    align-items: center;
 }
 
 textarea {
@@ -50,11 +52,10 @@ textarea:focus{
     color: #000;
     font-size: 16px;
     font-weight: bold;
-    padding: 8px;
-    margin: 0 10px;
-    border: 0;
+    padding: 10px 20px;
+    margin: 0 5px 10px 0;
     border-radius: 50px;
-    transition: 0.4s ease;
+    display: inline-block;
 }
 
 .choice.picked{
