@@ -6,10 +6,10 @@ const remaining = document.getElementById('remaining');
 updateBigcup();
 
 smallcups.forEach((cup, idx) => {
-    cup.addEventListener('click', () => highlightCupd(idx))
+    cup.addEventListener('click', () => highlightCup(idx))
 })
 
-function highlightCupd(idx) {
+function highlightCup(idx) {
     if (smallcups[idx].classList.contains('full') && !smallcups[idx].nextElementSibling.classList.contains('full')) {
         idx--;
     }
