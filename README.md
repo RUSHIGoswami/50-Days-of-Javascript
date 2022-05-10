@@ -20,4 +20,6 @@ link -[github.io/day15](https://rushigoswami.github.io/50-Days-of-Javascript/day
 link -[github.io/day16](https://rushigoswami.github.io/50-Days-of-Javascript/day16/)<br> Day 17
 link -[github.io/day17](https://rushigoswami.github.io/50-Days-of-Javascript/day17/)<br> Day 18
 link -[github.io/day18](https://rushigoswami.github.io/50-Days-of-Javascript/day18/)<br> Day 19
-link -[github.io/day19](https://rushigoswami.github.io/50-Days-of-Javascript/day19/)<br>
+link -[github.io/day19](https://rushigoswami.github.io/50-Days-of-Javascript/day19/)<br> Day 20
+link -[github.io/day20](https://rushigoswami.github.io/50-Days-of-Javascript/day20/)<br> Day 21
+link -[github.io/day21](https://rushigoswami.github.io/50-Days-of-Javascript/day21/)<br>
