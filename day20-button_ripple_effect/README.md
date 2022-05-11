@@ -5,4 +5,4 @@ target element, client axis detail usgin clientX and clientY, appendChild and se
 in CSS I used @keyframes query, scale function and translate function for ripple animation
 effect.<br>
 
-**Link: [Day20]:(https://rushigoswami.github.io/50-Days-of-Javascript/day20/)**
+**Link: [Day20](https://rushigoswami.github.io/50-Days-of-Javascript/day20/)**
