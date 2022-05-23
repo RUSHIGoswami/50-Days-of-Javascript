@@ -12,11 +12,11 @@ body {
     margin: 0;
 }
 
-/* h4{
+h4{
     font-size: 20px;
     margin: 5px;
     text-transform: uppercase;
-} */
+}
 .counter {
     position: fixed;
     top: 50%;
