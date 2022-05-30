@@ -41,4 +41,5 @@ link -[github.io/day36](https://rushigoswami.github.io/50-Days-of-Javascript/day
 link -[github.io/day37](https://rushigoswami.github.io/50-Days-of-Javascript/day37/)<br> Day 38
 link -[github.io/day38](https://rushigoswami.github.io/50-Days-of-Javascript/day38/)<br> Day 39
 link -[github.io/day39](https://rushigoswami.github.io/50-Days-of-Javascript/day39/)<br> Day 40
-link -[github.io/day40](https://rushigoswami.github.io/50-Days-of-Javascript/day40/)<br>
+link -[github.io/day40](https://rushigoswami.github.io/50-Days-of-Javascript/day40/)<br> Day 41
+link -[github.io/day41](https://rushigoswami.github.io/50-Days-of-Javascript/day41/)<br>
